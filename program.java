@@ -1,7 +1,0 @@
-/**
- * program
- */
-public class program {
-
-    
-}
