@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintEvenNums",
+            "request": "launch",
+            "mainClass": "STUDY.PrintEvenNums",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
+            "name": "FactorialN",
+            "request": "launch",
+            "mainClass": "STUDY.FactorialN",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
