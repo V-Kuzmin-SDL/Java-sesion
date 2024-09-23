@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumDigits",
+            "request": "launch",
+            "mainClass": "STUDY.sumDigits",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "PrintEvenNums",
             "request": "launch",
             "mainClass": "STUDY.PrintEvenNums",
