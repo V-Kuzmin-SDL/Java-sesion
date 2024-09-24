@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "formurl",
+            "request": "launch",
+            "mainClass": "STUDY.Lesson2.formurl",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "sumDigits",
             "request": "launch",
             "mainClass": "STUDY.sumDigits",
