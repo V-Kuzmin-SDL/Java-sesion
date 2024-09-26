@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindNumininputdata",
+            "request": "launch",
+            "mainClass": "STUDY.FindNumininputdata",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "STUDY.Calculator",
