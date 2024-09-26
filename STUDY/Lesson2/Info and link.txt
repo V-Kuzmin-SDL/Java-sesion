@@ -1,6 +1,6 @@
 
 
-Link to github: 
+Link to github: https://github.com/V-Kuzmin-SDL/Java-sesion/tree/main/STUDY/Lesson2
 
 Этот Java-код создает URL-адрес, добавляя параметры к базовому URL-адресу.
 
