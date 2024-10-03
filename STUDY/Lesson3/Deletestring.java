@@ -11,7 +11,7 @@ public class Deletestring {
         
         while (iterator.hasNext()) {
             String str = iterator.next();
-            // Удаляем, если длина строки нечетная
+        
             if (str.length() % 2 != 0) {
                 iterator.remove();
             }
@@ -19,7 +19,7 @@ public class Deletestring {
     }
 
     public static void main(String[] args) {
-        // Пример использования
+        
         LinkedList<String> strings = new LinkedList<>();
         strings.add("hello");
         strings.add("GeekBrains");
