@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Deletestring",
+            "request": "launch",
+            "mainClass": "STUDY.Lesson3.Deletestring",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "STUDY.bubblesort",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationtable",
+            "request": "launch",
+            "mainClass": "multiplicationtable",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "FindNumininputdata",
             "request": "launch",
             "mainClass": "STUDY.FindNumininputdata",
