@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeleteNegativeIntinmassive",
+            "request": "launch",
+            "mainClass": "STUDY.Lesson3.DeleteNegativeIntinmassive",
+            "projectName": "Java session_3a75e9d6"
+        },
+        {
+            "type": "java",
             "name": "Deletestring",
             "request": "launch",
             "mainClass": "STUDY.Lesson3.Deletestring",
