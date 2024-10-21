@@ -6,7 +6,7 @@ public class Main {
         directory.addStudent("Иван", 4);
         directory.addStudent("Петр", 3);
 
-        System.out.println(directory.findStudent("Иван")); // [5, 4]
+        System.out.println(directoary.findStudent("Иван")); // [5, 4]
         System.out.println(directory.findStudent("Петр")); // [3]
         System.out.println(directory.findStudent("Сергей")); // []
 
